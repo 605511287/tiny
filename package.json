@@ -1,0 +1,22 @@
+{
+  "name": "liruibo666-tiny",
+  "version": "0.0.2",
+  "description": "a tiny npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/605511287/tiny.git"
+  },
+  "keywords": [
+    "tiny"
+  ],
+  "author": "liruibo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/605511287/tiny/issues"
+  },
+  "homepage": "https://github.com/605511287/tiny#readme"
+}
